@@ -2799,3 +2799,7 @@ div.content::after{
 }.tc-btn-download:active {
 	background: #1475ff;
 }
+
+.hide-section{
+    display: none;
+}
